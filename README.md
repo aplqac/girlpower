@@ -1,1 +1,1 @@
-# girl-power
+# APL STEM: Girl Power!
