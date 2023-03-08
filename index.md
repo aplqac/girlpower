@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# APL STEM: Girl Power!
+# Work in Progress
 
 Welcome message here...
 
