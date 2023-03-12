@@ -1,13 +1,13 @@
 ---
 layout: default
-permalink: /women/index.html
+permalink: /girlpower/women/index.html
 ---
 # Women in STEM
 {% for woman in site.women %}
   <h2>
       {{ woman.name }}
   </h2>
-  ![Woman](/assets/images/{{ woman.image }})
+  ![Woman](/girlpower/assets/images/{{ woman.image }})
   <p>{{ woman.content | markdownify }}</p>
 {% endfor %}
 
