@@ -15,15 +15,4 @@ Suddenly, Sarah realized what she had done wrong. "I used the wrong variable nam
 > 
 > Thanks to Bill, Sarah was able to solve the problem and finish her code. From then on, whenever Sarah got stuck, she would turn to her trusty rubber duck and explain her code to her. And Bill would always listen, never judging, always helping Sarah find the solution she needed.
 
-## Rubber Duck Programming
-Test
-
-{% for woman in site.women %}
-  <h2>
-    <a href="{{ woman.url }}">
-      {{ woman.name }} - {{ woman.position }}
-    </a>
-  </h2>
-  ![Woman](/assets/images/{{ woman.image }})
-  <p>{{ woman.content | markdownify }}</p>
-{% endfor %}
+[Read more about rubber duck debugging...](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
