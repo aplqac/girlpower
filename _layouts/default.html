@@ -26,7 +26,8 @@
 
   <body>
     <div class="shell">
-
+ 
+ 	<a href="{{ site.url }}">
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
@@ -36,12 +37,12 @@
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
-      </header>
+      </header></a>
 
       {% if site.show_downloads %}
         <section id="downloads">
           <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
+            <a href="/" class="zip"><em>Meet</em>Your Duck</a><a href="/women/" class="tgz"><em>Read About</em>Women in STEM</a>
           </span>
         </section>
       {% else %}
