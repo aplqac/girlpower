@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /girlpower/women/index.html
+permalink: /women/index.html
 ---
 # Women in STEM
 {% for woman in site.women %}
