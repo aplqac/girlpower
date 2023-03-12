@@ -12,8 +12,6 @@ permalink: /women/index.html
 {% endfor %}
 
 ## Other Important Women in STEM
-<iframe width="506" height="315" src="https://www.youtube.com/watch?v=EgOaIKshbIU" frameborder="0" allowfullscreen></iframe>
-<br>
-<iframe width="506" height="315" src="https://www.youtube.com/watch?v=w6JFRi0Qm_s" frameborder="0" allowfullscreen></iframe>
-<br>
-<iframe width="506" height="315" src="https://www.youtube.com/watch?v=EG0Y8BfA4o0" frameborder="0" allowfullscreen></iframe>
+[![Mae Jemison](https://img.youtube.com/vi/EgOaIKshbIU/0.jpg)](https://www.youtube.com/watch?v=EgOaIKshbI)
+[![Marie Curie](https://img.youtube.com/vi/w6JFRi0Qm_s/0.jpg)](https://www.youtube.com/watch?v=w6JFRi0Qm_s)
+[![Grace Hopper](https://img.youtube.com/vi/EG0Y8BfA4o0/0.jpg)](https://www.youtube.com/watch?v=EG0Y8BfA4o0)
