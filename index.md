@@ -3,7 +3,7 @@ layout: default
 ---
 [Click here to read about women in STEM!](/girlpower/women/)
 
-[Click here to play with generative AI!](/girlpower/ai.html)
+[Click here to make a story with AI!](/girlpower/ai.html)
 
 # Bill the Rubber Duck
 
