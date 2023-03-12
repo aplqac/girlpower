@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+[Click here to read about women in STEM!](/girlpower/women/)
+[Click here to play with generative AI!](/girlpower/ai.html)
 # Bill the Rubber Duck
 
 > Once upon a time, there was a child named Sarah who loved to code. She would spend hours at her computer typing away, creating all sorts of cool programs and games. But sometimes, Sarah would get stuck. She would try and try to fix a bug in her code, but it just wouldn't work.
